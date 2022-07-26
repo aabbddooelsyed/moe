@@ -14,18 +14,18 @@
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
+        "value": "2739050",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
+        "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
-        "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
+        "description": "If you want your assistant to leave all chats automatically after some time. If you set it to True your Assistant account might get banned by Telegram",
+        "value": "False",
         "required": false
       },
       "BOT_TOKEN": {
@@ -69,13 +69,13 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "description": "If you dont know this, Leave as it is ( If you don't wanna get you Heroku account banned don't change this )",
+        "value": "https://github.dev/ChankitSaini/Yukki",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
-        "value": "master",
+        "value": "main",
         "required": true
       }
     },
