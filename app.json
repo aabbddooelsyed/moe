@@ -14,62 +14,62 @@
     "stack": "container",
     "env": {
       "آب ايدي": {
-        "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
+        "description": "يتخصل عليه من https://my.telegram.org, if you can't just use it as it.",
         "value": "2739050",
         "required": true
       },
       "ايبي هاش": {
-        "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
+        "description": "بتحصل عليه من https://my.telegram.org, if you can't just use it as it.",
         "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
       },
       "عيفها": {
-        "description": "If you want your assistant to leave all chats automatically after some time. If you set it to True your Assistant account might get banned by Telegram",
+        "description": "اذا بدك الحساب المساعد يغادر الدردشات مع مرور الوقت",
         "value": "False",
         "required": false
       },
       "توكن البوت": {
-        "description": "A Bot's token from Botfather",
+        "description": "توكن البوت اللي سويته",
         "value": "",
         "required": true
       },
       "قاعدة البيانات": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
+        "description": "بتحصل عليها من https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
         "value": "",
         "required": true
       },
-      "اسم البوت لا تخلي مزخرف": {
-        "description": "A name for your Music Bot. Please don't use ascii characters",
+      "اسم البوت": {
+        "description": "اسم البوت + لا تحط الأسم مزخرف ميصير التنصيب",
         "value": "",
         "required": true
       },
       "ايدي المالك": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "آيدي مالك البوت + اذا تريد أكثر من مالك خلي آيديه بس خلي فراغ بين كل آيدي",
         "value": "",
         "required": true
       },
       "جلسة بايروجرام": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "كود بايروجرام الحساب المساعد",
         "value": "",
         "required": true
       },
       "آبي كي هيروكو": {
-        "description": "Your Heroku account's API key",
+        "description": "بتحصله من اعدادات حسابك بهيروكو",
         "value": "",
         "required": false
       },
       "أسم التطبيق مال هيروكو": {
-        "description": "Your heroku app/bot's name",
+        "description": "أسم التطبيق اللي خليته أول شي",
         "value": "",
         "required": false
       },
       "ايدي الكروب": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
+        "description": "آيدي كروب راقع البوت فيه للتجربة",
         "value": "",
         "required": true
       },
       "عيفها": {
-        "description": "If you dont know this, Leave as it is ( If you don't wanna get you Heroku account banned don't change this )",
+        "description" : "اذا غيرتها ينحظر حسابك من هيروكو",
         "value": "https://github.com/alhajjim/aje",
         "required": true
       },
