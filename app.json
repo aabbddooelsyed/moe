@@ -1,6 +1,7 @@
 {
     "name": "𝘿𝙧𝙖𝙂𝙤𝙣 𝙈𝙪𝙨𝙞𝙘 𝘽𝙤𝙩",
     "description": "بوت ميوزك لتشغيل موسيقى في المكالمه الجماعية ، أيضا يدعم تشغيل الفيديو ، ويدعم التحميل الملسلات والأغاني الى حجم يصل  الى 2 جيجا",
+    "Telegram" : "[SouRce DraGon](https://t.me/YY8GG)",
     "logo": "https://telegra.ph/file/78827dfb6a49b1a8ff0f3.jpg",
     "keywords": [
     "python3",
@@ -14,12 +15,12 @@
     "stack": "container",
     "env": {
       "آب ايدي": {
-        "description": "يتخصل عليه من https://my.telegram.org, if you can't just use it as it.",
+        "description": "بتحصل عليه من https://my.telegram.org",
         "value": "2739050",
         "required": true
       },
       "ايبي هاش": {
-        "description": "بتحصل عليه من https://my.telegram.org, if you can't just use it as it.",
+        "description": "بتحصل عليه من https://my.telegram.org",
         "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
       },
@@ -34,7 +35,7 @@
         "required": true
       },
       "قاعدة البيانات": {
-        "description": "بتحصل عليها من https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
+        "description": "بتحصل عليها من https://cloud.mongodb.com",
         "value": "",
         "required": true
       },
@@ -73,8 +74,8 @@
         "value": "https://github.com/alhajjim/aje",
         "required": true
       },
-      "UPSTREAM_BRANCH": {
-        "description": "Upstream Repo's Branch Name",
+      "أسم مشروعك": {
+        "description": "عيفها",
         "value": "main",
         "required": true
       }
