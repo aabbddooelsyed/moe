@@ -18,7 +18,7 @@
 ## ✅ نشر التطبيق على هيروكو:
 
 <h4>أضغط هنا لنشر التطبيق على هيروكو!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/alhajjim/aje/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/alhajjim/aje"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 
