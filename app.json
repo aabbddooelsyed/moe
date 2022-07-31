@@ -38,6 +38,21 @@
         "value": "",
         "required": true
       },
+      "SUPPORT_GROUP": {
+        "descriptoin": "معرف كروبك بدون @",
+        "value":"",
+        "required": true
+      },
+      "SUPPORT_CHANNEL": {
+        "descriptoin": " معرف قناتك بدون @",
+        "value":"", 
+        "required": true
+      },
+      "START_IMG_URL": {
+        "descriptoin": "رابط صورة الستارت",
+        "value":"",
+        "required": true
+      },
       "MUSIC_BOT_NAME": {
         "description": "اسم البوت + لا تحط الأسم مزخرف ميصير التنصيب",
         "value": "",
