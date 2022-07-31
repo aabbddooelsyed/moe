@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is ( If you don't wanna get you Heroku account banned don't change this )",
-        "value": "https://github.com/ChankitSaini/Yukki",
+        "value": "https://github.com/alhajjim/aje",
         "required": true
       },
       "UPSTREAM_BRANCH": {
