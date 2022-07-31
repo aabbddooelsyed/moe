@@ -2,16 +2,17 @@
 
 # DRAGON Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[DraGon Music Bot](https://github.com/alhajjim/aje) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
+[DraGon Music Bot](https://github.com/alhajjim/aje) سورس التنين يقدم لكم بوتات تيليجرام بكامل حقوقك كل ما عليك هو نشر التطبيق على هيروكو او سيرفر .
+• ميزات البوت : 
+• تشغيل موسيقى في المكالمه الجماعية .
+• تشغيل فيديو في المكالمه الجماعية .
+• تنزيل مسلسلات أو مقاطع صوتية تصل الى حجم 2G .
+• تشغيل موسيقى في القناة .
+• يدعم جميع اللغات منهم الأنكليزية والعربية والهندية والصينية الى آخر .
 
 ## ⚠️ روابط التنصيب :
 
-الشرح داخل القناة . [أضغط هنا] (https://t.me/yy8gg)
+الشرح داخل القناة . [أضغط هنا](https://t.me/yy8gg)
  
 
 ## ✅ نشر التطبيق على هيروكو:
