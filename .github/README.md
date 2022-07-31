@@ -11,18 +11,19 @@
 
 ## ⚠️ روابط التنصيب :
 
-الشرح داخل القناة . [أضغط هنا](https://t.me/YY8G)
+الشرح داخل القناة . [أضغط هنا] (https://t.me/yy8gg)
  
-نشر التطبيق على هيروكو:
+
+## ✅ نشر التطبيق على هيروكو:
 
 <h4>أضغط هنا لنشر التطبيق على هيروكو!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/alhajjim/aje/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 
-# 🏷 كروب الدعم :
+## 🏷 كروب الدعم :
 
- تابعنا على التيليجرام لرؤية آخر التحديثات :
+- تابعنا على التيليجرام لرؤية آخر التحديثات :
 
 - [كروب الدعم](https://t.me/MUSICSOURCEDRAGON)
 
@@ -30,9 +31,6 @@
 
   شكر خاص للمطورين :
 
-- [AHMED](https://t.me/ku_kx)
-- [MeM](https://t.me/N_J_9)
-- [SouRce DraGon](https://t.me/YY8GG)
-
-
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+- [أحمد](https://t.me/ku_kx)
+- [ميم](https://t.me/N_J_9)
+- [قناة السورس](https://t.me/YY8GG)
