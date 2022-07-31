@@ -48,7 +48,7 @@
         "value": "",
         "required": true
       },
-      "UPSTREAM_BRANCH": {
+      "STRING_SESSION": {
         "description": "كود بايروجرام الحساب المساعد",
         "value": "",
         "required": true
@@ -63,7 +63,7 @@
         "value": "",
         "required": false
       },
-      "ايدي الكروب": {
+      "LOG_GROUP_ID": {
         "description": "آيدي كروب راقع البوت فيه للتجربة",
         "value": "",
         "required": true
@@ -73,7 +73,7 @@
         "value": "https://github.com/alhajjim/aje",
         "required": true
       },
-      "أسم مشروعك": {
+      "UPSTREAM_BRANCH": {
         "description": "عيفها",
         "value": "main",
         "required": true
