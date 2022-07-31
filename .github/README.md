@@ -2,37 +2,25 @@
 
 # DRAGON Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/alhajjim/aje) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[DraGon Music Bot](https://github.com/alhajjim/aje) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
-
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/DraGonmusicbot/)]
-
-> The official [documentation site](https://notreallyshikhar.gitbook.io/alhajjim/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Okteto / Railway
+## ⚠️ روابط التنصيب :
 
 We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/YY8GG)
 
-## 🖇 Generating Pyrogram String Session
-
-<p>
-<a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/MUSICSOURCEDRAGON"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-</p>
-
-## 🚀 Heroku Deployment
+## 🚀 نشر التطبيق على هيروكو :
 
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/alhajjim/aje/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
 
-# 🏷 Support / Assistance
+# 🏷 كروب الدعم :
 
 Reach out to the maintainer at one of the following places:
 
@@ -49,7 +37,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 Together, we can make **aje** better!
 # 📑 Acknowledgement / Credits
 
-  thanks to DeV :
+  شكر خاص للمطورين :
 
 - [AHMED](https://t.me/ku_kx)
 - [MeM](https://t.me/N_J_9)
