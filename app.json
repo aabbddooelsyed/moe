@@ -13,12 +13,12 @@
     ],
     "stack": "container",
     "env": {
-      "آب ايدي": {
+      "API_ID": {
         "description": "بتحصل عليه من https://my.telegram.org",
         "value": "2739050",
         "required": true
       },
-      "ايبي هاش": {
+      "API_HASH": {
         "description": "بتحصل عليه من https://my.telegram.org",
         "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
@@ -28,37 +28,37 @@
         "value": "False",
         "required": false
       },
-      "توكن البوت": {
+      "BOT_TOKEN": {
         "description": "توكن البوت اللي سويته",
         "value": "",
         "required": true
       },
-      "قاعدة البيانات": {
+      "MONGO_DB_URI": {
         "description": "بتحصل عليها من https://cloud.mongodb.com",
         "value": "",
         "required": true
       },
-      "اسم البوت": {
+      "MUSIC_BOT_NAME": {
         "description": "اسم البوت + لا تحط الأسم مزخرف ميصير التنصيب",
         "value": "",
         "required": true
       },
-      "ايدي المالك": {
+      "OWNER_ID": {
         "description": "آيدي مالك البوت + اذا تريد أكثر من مالك خلي آيديه بس خلي فراغ بين كل آيدي",
         "value": "",
         "required": true
       },
-      "جلسة بايروجرام": {
+      "UPSTREAM_BRANCH": {
         "description": "كود بايروجرام الحساب المساعد",
         "value": "",
         "required": true
       },
-      "آبي كي هيروكو": {
+      "HEROKU_API_KEY": {
         "description": "بتحصله من اعدادات حسابك بهيروكو",
         "value": "",
         "required": false
       },
-      "أسم التطبيق مال هيروكو": {
+      "HEROKU_APP_NAME": {
         "description": "أسم التطبيق اللي خليته أول شي",
         "value": "",
         "required": false
