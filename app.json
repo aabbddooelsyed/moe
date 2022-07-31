@@ -39,17 +39,17 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "descriptoin": "معرف كروبك بدون @",
+        "description": "معرف كروبك بدون @",
         "value":"",
         "required": true
       },
       "SUPPORT_CHANNEL": {
-        "descriptoin": " معرف قناتك بدون @",
+        "description": " معرف قناتك بدون @",
         "value":"", 
         "required": true
       },
       "START_IMG_URL": {
-        "descriptoin": "رابط صورة الستارت",
+        "description": "رابط صورة الستارت",
         "value":"",
         "required": true
       },
