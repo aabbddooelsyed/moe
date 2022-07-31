@@ -11,31 +11,22 @@
 
 ## ⚠️ روابط التنصيب :
 
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/YY8GG)
+الشرح داخل القناة . [أضغط هنا](https://t.me/YY8G)
+ 
+نشر التطبيق على هيروكو:
 
-## 🚀 نشر التطبيق على هيروكو :
-
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
+<h4>أضغط هنا لنشر التطبيق على هيروكو!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/alhajjim/aje/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
+
 
 # 🏷 كروب الدعم :
 
-Reach out to the maintainer at one of the following places:
+ تابعنا على التيليجرام لرؤية آخر التحديثات :
 
-- [GitHub Issues](https://github.com/alhajjim/aje/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/alhajjim)
-- [Telegram Support](https://t.me/MUSICSOURCEDRAGON)
+- [كروب الدعم](https://t.me/MUSICSOURCEDRAGON)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/alhajjim/aje) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **aje** better!
-# 📑 Acknowledgement / Credits
 
   شكر خاص للمطورين :
 
