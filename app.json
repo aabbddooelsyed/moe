@@ -23,7 +23,7 @@
         "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
       },
-      "عيفها": {
+      "AUTO_LEAVING_ASSISTANT": {
         "description": "اذا بدك الحساب المساعد يغادر الدردشات مع مرور الوقت",
         "value": "False",
         "required": false
@@ -68,7 +68,7 @@
         "value": "",
         "required": true
       },
-      "عيفها": {
+      "UPSTREAM_REPO": {
         "description" : "اذا غيرتها ينحظر حسابك من هيروكو",
         "value": "https://github.com/alhajjim/aje",
         "required": true
