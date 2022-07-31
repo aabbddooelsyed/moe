@@ -1,7 +1,7 @@
 {
-    "name": "Yukki Music Bot",
-    "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "name": "𝘿𝙧𝙖𝙂𝙤𝙣 𝙈𝙪𝙨𝙞𝙘 𝘽𝙤𝙩",
+    "description": "بوت ميوزك لتشغيل موسيقى في المكالمه الجماعية ، أيضا يدعم تشغيل الفيديو ، ويدعم التحميل الملسلات والأغاني الى حجم يصل  الى 2 جيجا",
+    "logo": "https://telegra.ph/file/78827dfb6a49b1a8ff0f3.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,62 +13,62 @@
     ],
     "stack": "container",
     "env": {
-      "API_ID": {
+      "آب ايدي": {
         "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
         "value": "2739050",
         "required": true
       },
-      "API_HASH": {
+      "ايبي هاش": {
         "description": "You better get this value from https://my.telegram.org, if you can't just use it as it.",
         "value": "ed519306e00eaab97a9b0406a7fe6339",
         "required": true
       },
-      "AUTO_LEAVING_ASSISTANT": {
+      "عيفها": {
         "description": "If you want your assistant to leave all chats automatically after some time. If you set it to True your Assistant account might get banned by Telegram",
         "value": "False",
         "required": false
       },
-      "BOT_TOKEN": {
+      "توكن البوت": {
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
       },
-      "MONGO_DB_URI": {
+      "قاعدة البيانات": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
         "value": "",
         "required": true
       },
-      "MUSIC_BOT_NAME": {
+      "اسم البوت لا تخلي مزخرف": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "ايدي المالك": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "",
         "required": true
       },
-      "STRING_SESSION": {
+      "جلسة بايروجرام": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
         "value": "",
         "required": true
       },
-      "HEROKU_API_KEY": {
+      "آبي كي هيروكو": {
         "description": "Your Heroku account's API key",
         "value": "",
         "required": false
       },
-      "HEROKU_APP_NAME": {
+      "أسم التطبيق مال هيروكو": {
         "description": "Your heroku app/bot's name",
         "value": "",
         "required": false
       },
-      "LOG_GROUP_ID": {
+      "ايدي الكروب": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
         "value": "",
         "required": true
       },
-      "UPSTREAM_REPO": {
+      "عيفها": {
         "description": "If you dont know this, Leave as it is ( If you don't wanna get you Heroku account banned don't change this )",
         "value": "https://github.com/alhajjim/aje",
         "required": true
