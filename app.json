@@ -43,8 +43,8 @@
         "value": "60",
         "required": true
       },
-      "SUPPORT_CHANNEL": {
-        "description": "https://t.me/yy8gg رابط قناتك",
+      "SUPPORT_GROUP": {
+        "description": "https://t.me/yy8gg رابط قناتك مو رابط كروب ؟",
         "value":"رابط قناتك",
         "required": true
       },
