@@ -67,8 +67,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/YY8GG"
 )  # Example:- https://t.me/YY8GG
-SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL",
+SUPPORT_GROUP = getenv(
+    "SUPPORT_GROUP",
 )  # Example:- https://t.me/MUSICSOURCEDRAGON
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -248,10 +248,10 @@ if SUPPORT_CHANNEL:
         )
         sys.exit()
 
-if SUPPORT_CHANNEL:
-    if not re.match("(?:http|https)://", SUPPORT_CHANNEL):
+if SUPPORT_GROUP:
+    if not re.match("(?:http|https)://", SUPPORT_GROUP):
         print(
-            "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
         sys.exit()
 
