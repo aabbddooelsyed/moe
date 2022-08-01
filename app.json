@@ -41,7 +41,7 @@
       "DURATION_LIMIT_MIN": {
         "description": " مدة الأغنية التي يشغلها البوت بالعادة بتجي 60",
         "value": "60",
-        "required": "true
+        "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "https://t.me/yy8gg رابط قناتك",
