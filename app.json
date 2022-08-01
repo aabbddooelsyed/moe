@@ -39,12 +39,12 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "معرف كروبك بدون @",
+        "description": "https://t.me/MUSICSOURCEDRAGON رابط كروبك",
         "value":"",
         "required": true
       },
       "SUPPORT_CHANNEL": {
-        "description": " معرف قناتك بدون @",
+        "description": "https://t.me/YY8GG رابط قناتك",
         "value":"", 
         "required": true
       },
