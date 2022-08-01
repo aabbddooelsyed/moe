@@ -87,7 +87,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 
 
-## Images/Thumbnail Vars
+## ⌯ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑫𝒓𝒂𝑮𝒐𝒏 
 
 - You can change images which are used in Yukki Music Bot.
 - You can generate telegaph links from [@YukkiTelegraphBot](http://t.me/YukkiTelegraphBot) and use it here.
@@ -106,11 +106,11 @@ Config vars are basically the variables which configure or modify bot to functio
 12. `SPOTIFY_ALBUM_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 13. `SPOTIFY_PLAYLIST_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 
-## Multi Assistant Mode
+## 𝙳𝚛𝚊𝙶𝚘𝚗 𝙼𝚞𝚜𝚒𝚌 𝙱𝚘𝚝
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
-1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
+1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram 𝙳𝚛𝚊𝙶𝚘𝚗.
 2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
 3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
 4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
