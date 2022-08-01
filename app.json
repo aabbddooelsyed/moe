@@ -38,8 +38,8 @@
         "value": "mongodb+srv://alhajji:alhajji313@mido.y0er3.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
-      "SUPPORT_GROUP": {
-        "description": "https://t.me/MUSICSOURCEDRAGON رابط قناتك",
+      "SUPPORT_CHANNEL": {
+        "description": "https://t.me/yy8gg رابط قناتك",
         "value":"رابط قناتك",
         "required": true
       },
