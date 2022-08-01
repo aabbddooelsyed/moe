@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "بتحصل عليه من https://my.telegram.org",
-        "value": "2739050",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "بتحصل عليه من https://my.telegram.org",
-        "value": "ed519306e00eaab97a9b0406a7fe6339",
+        "value": "",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -39,13 +39,13 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "https://t.me/MUSICSOURCEDRAGON رابط كروبك",
-        "value":"",
+        "description": "https://t.me/MUSICSOURCEDRAGON رابط قناتك",
+        "value":"رابط قناتك",
         "required": true
       },
       "SUPPORT_CHANNEL": {
-        "description": "https://t.me/YY8GG رابط قناتك",
-        "value":"", 
+        "description": "عوفها",
+        "value":"https://t.me/YY8GG", 
         "required": true
       },
       "START_IMG_URL": {
