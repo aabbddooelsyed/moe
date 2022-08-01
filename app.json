@@ -43,11 +43,6 @@
         "value":"رابط قناتك",
         "required": true
       },
-      "SUPPORT_CHANNEL": {
-        "description": "عوفها",
-        "value":"https://t.me/YY8GG", 
-        "required": true
-      },
       "START_IMG_URL": {
         "description": "رابط صورة الستارت",
         "value":"",
