@@ -34,8 +34,8 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "بتحصل عليها من https://cloud.mongodb.com",
-        "value": "",
+        "description": "قاعدة البيانات عوفها",
+        "value": "mongodb+srv://alhajji:alhajji313@mido.y0er3.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "SUPPORT_GROUP": {
@@ -79,8 +79,8 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "آيدي كروب راقع البوت فيه للتجربة",
-        "value": "",
+        "description": "آيدي كروب رافع البوت فيه للتجربة",
+        "value": "-1001311448721",
         "required": true
       },
       "UPSTREAM_REPO": {
