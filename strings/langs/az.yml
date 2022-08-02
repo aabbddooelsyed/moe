@@ -77,7 +77,7 @@ start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. 
 
 # Help
 help_1 : "Ətraflı məlumat üçün aşağıdakı düymələrə klikləyin. Əgər komandada hər hansı problemlə üzləşsəniz, bot sahibimlə əlaqə saxlaya və ya dəstək çatında soruşa bilərsiniz.\n\nBütün əmrlər aşağıdakılarla istifadə edilə bilər: /"
-help_2 : "Kömək üçün PM-də mənimlə əlaqə saxlayın."
+help_2 : "[⍆ 𝗗𝗿𝗮𝗴𝗼𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗗𝗲𝘃 🎗](t.me/ku_kx)"
 
 # Settings
 settings_1 : "⚙️ **Musiqi Botu Parametrləri**\n\n🖇**Qrup:** {0}\n🔖**Qrup ID-si:** `{1}`\n\n💡**Funksiyanı seçin Aşağıdan redaktə etmək və ya dəyişmək istədiyiniz düymələr.**"
