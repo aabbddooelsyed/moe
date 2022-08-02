@@ -1,4 +1,4 @@
-<img src="[https://telegra.ph/file/78827dfb6a49b1a8ff0f3.jpg]([https://telegra.ph/file/3976bbe38bcc08673415e.jpg](https://telegra.ph/file/3976bbe38bcc08673415e.jpg))" align="right" width="200" height="200"/>
+<img src="[https://telegra.ph/file/78827dfb6a49b1a8ff0f3.jpg] align="right" width="200" height="200"/>
 
 # DRAGON Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
