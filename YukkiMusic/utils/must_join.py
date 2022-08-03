@@ -19,10 +19,10 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"يجب عليك الانضمام [القناه]({link}) لاستخدامي. بعد الانضمام ارسل /start مره اخرى !",
+                    f"يجب عليك الانضمام [للقناة]({link})",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("Source DraGon", url=link)]
+                        [InlineKeyboardButton("أنضام", url=link)]
                     ])
                 )
                 await msg.stop_propagation()
