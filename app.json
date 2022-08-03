@@ -23,6 +23,11 @@
         "value": "",
         "required": true
       },
+      "MUST_JOIN": {
+        "description": "أشتراك اجباري",
+        "value": "معرف قناتك بدون @",
+        "required": true
+      },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "اذا بدك الحساب المساعد يغادر الدردشات مع مرور الوقت",
         "value": "False",
