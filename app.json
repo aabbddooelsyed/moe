@@ -22,14 +22,9 @@
         "description": "بتحصل عليه من https://my.telegram.org",
         "value": "",
         "required": true
-      },
-      "MUST_JOIN": {
-        "description": "أشتراك اجباري",
-        "value": "معرف قناتك بدون @",
-        "required": false
-      },
-      "AUTO_LEAVING_ASSISTANT": {
-        "description": "اذا بدك الحساب المساعد يغادر الدردشات مع مرور الوقت",
+      }, 
+     "AUTO_LEAVING_ASSISTANT": {
+        "description": "لا تغير شيء",
         "value": "False",
         "required": false
       },
@@ -94,7 +89,7 @@
         "required": true
       },
       "UPSTREAM_BRANCH": {
-        "description": "عيفها",
+        "description": "لا تغير شيء",
         "value": "main",
         "required": true
       }
