@@ -8,7 +8,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 async def must_join_channel(bot: Client, msg: Message):
     if not MUST_JOIN:  # Not compulsory
         return
-        try:
+    try:
         try:
             await bot.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
@@ -19,7 +19,7 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"يجب عليك الانضمام [اللقناه]({link})",
+                    f"يجب عليك الانضمام [اللقناه]({link}) لاستخدامي",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
                         [InlineKeyboardButton("Source DraGon", url=link)]
