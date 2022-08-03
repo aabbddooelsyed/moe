@@ -80,7 +80,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "آيدي كروب رافع البوت فيه للتجربة",
-        "value": "-1001311448721",
+        "value": "-10064552324 مثال",
         "required": true
       },
       "UPSTREAM_REPO": {
