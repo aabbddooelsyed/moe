@@ -55,7 +55,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/alhajjim/aje",
+    "https://github.com/bbaj8/moe",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -64,7 +64,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/YY8GG"
+    "SUPPORT_CHANNEL", "https://t.me/QQQLO"
 )  # Example:- https://t.me/YY8GG
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP",
